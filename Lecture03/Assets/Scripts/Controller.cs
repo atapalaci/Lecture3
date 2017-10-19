@@ -19,6 +19,6 @@ public class Controller : MonoBehaviour
         }
 
         // Second approach
-        // MessageSystem.TriggerModifyButtonClicked();
+        MessageSystem.TriggerModifyButtonClicked();
     }
 }
